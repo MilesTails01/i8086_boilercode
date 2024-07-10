@@ -1,0 +1,5 @@
+dist
+docs
+bin/*
+!bin/TOOLS.zip
+!bin/DOSBOX.zip
